@@ -1,3 +1,3 @@
 # Snake
-Snake game in Java
+Snake game in Java<br/>
 ![](Demo.gif)
